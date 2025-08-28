@@ -1,4 +1,4 @@
-# 💻 Dany Landeros.
+# Hello there I am Dany👋
 Construyo apps web, dockerizo cosas y despliego en la nube.
 
 ## 🚀 Proyectos Destacados
