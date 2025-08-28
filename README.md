@@ -13,3 +13,9 @@ Fullstack + DevOps despliego en cloud y rompo menos cosas cada día.
 
 ##  Contacto
 [LinkedIn](#) • [Portafolio](#)
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
