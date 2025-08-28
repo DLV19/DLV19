@@ -1,21 +1,19 @@
-#  Hola, soy Dany
-Fullstack + DevOps despliego en cloud y rompo menos cosas cada día.
+# 💻 Dany Landeros — Fullstack & Cloud-in-Progress
+Construyo apps web, dockerizo cosas y despliego en la nube. React • PHP • Python • Docker • MySQL
 
-## 🚀 Stack
-- Front: React, Vue, Tailwind
-- Back: PHP, Node, Python
-- DB: MySQL, MongoDB
-- DevOps: Docker, Railway, Render
+## 🚀 Proyectos Destacados
+- **Extensiones Perfect Choice** — React + Vite + Tailwind
+- **CRUD Celulares** — PHP + MySQL + DataTables + SweetAlert2
+- **CV Interactivo** — React + i18next + Framer Motion
 
-## 📌 Proyectos top
-- Extensiones Perfect Choice — React + Vite
-- CV Interactivo — React + i18next + Framer Motion
-
-##  Contacto
-[LinkedIn](#) • [Portafolio](#)
-
+## 🧰 Tech
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
+![Vue](https://img.shields.io/badge/Vue-35495E?logo=vue.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+![Node](https://img.shields.io/badge/Node-339933?logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
+## 📫 Conecta
+[Portafolio](#) · [LinkedIn](#)
 
