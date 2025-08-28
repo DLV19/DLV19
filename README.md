@@ -1,9 +1,8 @@
-# 💻 Dany Landeros — Fullstack & Cloud-in-Progress
-Construyo apps web, dockerizo cosas y despliego en la nube. React • PHP • Python • Docker • MySQL
+# 💻 Dany Landeros.
+Construyo apps web, dockerizo cosas y despliego en la nube.
 
 ## 🚀 Proyectos Destacados
 - **Extensiones Perfect Choice** — React + Vite + Tailwind
-- **CRUD Celulares** — PHP + MySQL + DataTables + SweetAlert2
 - **CV Interactivo** — React + i18next + Framer Motion
 
 ## 🧰 Tech
