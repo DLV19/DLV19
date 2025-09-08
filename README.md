@@ -2,6 +2,8 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ### 🚀 Ingeniero en Soporte Técnico Nivel II · Desarrollador Web en formación.  
+### 🚀 Seguir adelante es lo que mejor se hacer.  
+
 
 ---
 
